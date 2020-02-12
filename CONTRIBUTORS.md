@@ -52,4 +52,5 @@ Innovation Week Contributors & Volunteers
 * **Aarush Bajaj**
 * **Felix Cameron**
 * **Jake Evans**
-
+* **Edwin Cheah**
+* **Spiros Kolokotsas**
